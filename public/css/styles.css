@@ -1,0 +1,27 @@
+h1{
+    color: rgb(246, 246, 248);
+}
+.form-control
+{
+  border-radius: 0px;
+  height: 40px;
+  height: 4%;
+  
+}
+.form-group{
+      align-content: center;
+      text-align: center;
+}
+.form{
+   background-color: rgb(138, 137, 235);
+   border-radius: 5rem;
+   text-align: center;
+}
+.homediv{
+    background-color: cadetblue;
+    text-align: center;
+}
+.go{
+    text-align: center;
+    background-color: darkkhaki;
+}
